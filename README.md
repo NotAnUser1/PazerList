@@ -3,7 +3,7 @@ Compilation of [Pazer Antibot software](https://github.com/PazerOP/tf2_bot_detec
 Feel free to send a PR for more ids.
 
 
-#Install guide
+# Install guide
 In a terminal run 
 
 ```git clone --recursive https://github.com/d3fc0n6/PazerList.git; cd PazerList; cp list.cfg ~/.steam/steam/steamapps/common/Team\ Fortress\ 2/tf/cfg/pazer.cfg;cd ..; rm -rf PazerList```
